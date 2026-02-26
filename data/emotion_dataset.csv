@@ -1,0 +1,238 @@
+ID,Text,Emotion
+1,I am so overwhelmed with work and deadlines,Stress
+2,The pressure is unbearable I cant handle this anymore,Stress
+3,I have too many responsibilities and no time,Stress
+4,My boss keeps adding more tasks and I feel exhausted,Stress
+5,I cant sleep because Im worried about everything,Stress
+6,Everything is piling up and I feel like breaking down,Stress
+7,I am constantly anxious about my performance,Stress
+8,The workload is crushing me,Stress
+9,I feel burned out and drained,Stress
+10,The deadlines are killing me,Stress
+11,I am so happy today everything is wonderful,Joy
+12,What a beautiful day I feel so blessed,Joy
+13,I got promoted at work I am thrilled,Joy
+14,Spending time with my family brings me so much joy,Joy
+15,I achieved my goals and feel accomplished,Joy
+16,The weather is perfect and Im feeling great,Joy
+17,I received good news and I am excited,Joy
+18,Life is treating me well and I am grateful,Joy
+19,This is the best day of my life,Joy
+20,I cant contain my excitement,Joy
+21,I feel so alone and nobody understands me,Sadness
+22,I lost someone close to me and it hurts,Sadness
+23,Nothing seems to go right in my life,Sadness
+24,I feel empty inside like something is missing,Sadness
+25,I cried myself to sleep last night,Sadness
+26,The memories keep haunting me,Sadness
+27,I feel hopeless about the future,Sadness
+28,I miss the good old days,Sadness
+29,Life feels meaningless lately,Sadness
+30,I feel like giving up on everything,Sadness
+31,I am so angry at how things turned out,Anger
+32,This is absolutely unfair and I hate it,Anger
+33,I cant believe they did this to me,Anger
+34,I want to scream and break things,Anger
+35,People keep annoying me and I lose my temper,Anger
+36,I am furious about the injustice,Anger
+37,My blood is boiling with rage,Anger
+38,I feel betrayed and want revenge,Anger
+39,Stop bothering me I am so irritated,Anger
+40,I cant stand this situation anymore,Anger
+41,I am terrified of what might happen,Fear
+42,The uncertainty scares me so much,Fear
+43,I have nightmares about failing,Fear
+44,I am afraid of being rejected,Fear
+45,The thought of public speaking terrifies me,Fear
+46,I worry about the unknown future,Fear
+47,I feel insecure and vulnerable,Fear
+48,Something bad is going to happen I can feel it,Fear
+49,I am scared of being alone forever,Fear
+50,The darkness frightens me,Fear
+51,I am surprised by this unexpected turn of events,Surprise
+52,I never expected this to happen,Surprise
+53,What a twist I didnt see this coming,Surprise
+54,This news caught me completely off guard,Surprise
+55,I am shocked by the revelation,Surprise
+56,I cant believe what I am seeing,Surprise
+57,This is so unexpected and amazing,Surprise
+58,I wasnt prepared for this at all,Surprise
+59,My jaw dropped when I heard the news,Surprise
+60,I am astonished by the results,Surprise
+61,I love spending time with you more than anything,Love
+62,You mean the world to me,Love
+63,I cherish every moment with you,Love
+64,Thank you for always being there for me,Love
+65,I miss you so much and care about you deeply,Love
+66,You make me feel so special and loved,Love
+67,I adore you with all my heart,Love
+68,I really appreciate everything youve done for me,Love
+69,My heart is full of love for you,Love
+70,I am so grateful to have you in my life,Love
+71,The meeting will start at 9 AM tomorrow,Neutral
+72,Please submit the report before Friday,Neutral
+73,The weather today is cloudy and humid,Neutral
+74,The package has been delivered successfully,Neutral
+75,The document has been updated,Neutral
+76,The store opens at 10 AM,Neutral
+77,The file has been saved,Neutral
+78,The meeting has been rescheduled,Neutral
+79,Please find the attached document,Neutral
+80,The event is scheduled for next week,Neutral
+81,I feel so stressed about the upcoming exams,Stress
+82,Work is making me feel anxious all the time,Stress
+83,I have so much on my plate right now,Stress
+84,The tension at work is unbearable,Stress
+85,I feel like Im going to explode from stress,Stress
+86,Today was absolutely amazing and I loved it,Joy
+87,I feel so proud of what we achieved,Joy
+88,Everything worked out perfectly today,Joy
+89,I am overjoyed with the news,Joy
+90,Today I smiled more than ever,Joy
+91,I feel so disconnected from everyone,Sadness
+92,The pain in my heart wont go away,Sadness
+93,I have been crying for no reason,Sadness
+94,I feel like a failure,Sadness
+95,Nobody seems to care about me,Sadness
+96,How dare you say that to me,Anger
+97,I am furious about what happened,Anger
+98,This is so annoying and unfair,Anger
+99,I am so mad I could scream,Anger
+100,That was completely unfair and unacceptable,Anger
+101,I feel lonely even around people,Sadness
+102,Everything feels dark and hopeless,Sadness
+103,I just want to cry,Sadness
+104,Why am I always so sad,Sadness
+105,I feel depressed and unmotivated,Sadness
+106,The document is ready for review,Neutral
+107,I will be there at noon,Neutral
+108,The train arrives at platform 5,Neutral
+109,Here is the information you requested,Neutral
+110,The report is attached,Neutral
+111,Tomorrow is Monday,Neutral
+112,The office is on the third floor,Neutral
+113,I will call you later,Neutral
+114,I am scared of what comes next,Fear
+115,This makes me nervous,Fear
+116,I am worried about my health,Fear
+117,What if everything goes wrong,Fear
+118,I am anxious about the presentation,Fear
+119,The thought of failure scares me,Fear
+120,Wait what just happened,Surprise
+121,I cannot believe my eyes,Surprise
+122,That was so unexpected,Surprise
+123,No way this is real,Surprise
+124,Are you serious right now,Surprise
+125,I did not see that coming at all,Surprise
+126,You are the best thing that happened to me,Love
+127,I care about you so much,Love
+128,My heart belongs to you,Love
+129,I am grateful for your support,Love
+130,You make my life beautiful,Love
+131,I appreciate everything you do,Love
+132,I am thrilled about this opportunity,Joy
+133,What a wonderful surprise,Joy
+134,I am so proud of myself,Joy
+135,Everything is going so well,Joy
+136,I feel blessed and grateful,Joy
+137,Today was amazing,Joy
+138,This workload is too much,Stress
+139,I am under so much pressure,Stress
+140,My anxiety is through the roof,Stress
+141,I cannot cope with all this,Stress
+142,Work is driving me crazy,Stress
+143,I need a break from all this stress,Stress
+144,lets goo,Joy
+145,lets gooo so happy,Joy
+146,yessss finally,Joy
+147,omg im so happy rn,Joy
+148,this is lit,Joy
+149,woohoo we did it,Joy
+150,ayy thats awesome,Joy
+151,haha lol this is great,Joy
+152,best day ever fr,Joy
+153,im hyped af,Joy
+154,lets go,Joy
+155,yayyy,Joy
+156,woooo,Joy
+157,slayyy,Joy
+158,poggers,Joy
+159,so excited rn,Joy
+160,cant wait,Joy
+161,this makes me so happy,Joy
+162,fk you,Anger
+163,fck this sht,Anger
+164,im so pissed off,Anger
+165,wtf is wrong with you,Anger
+166,this is bs,Anger
+167,im done with this crap,Anger
+160,go to hell,Anger
+161,i hate everything rn,Anger
+162,ugh so annoying,Anger
+163,shut up already,Anger
+164,fk off,Anger
+165,fk this,Anger
+166,fking hate this,Anger
+167,screw you,Anger
+168,get lost,Anger
+169,you suck,Anger
+170,i hate you,Anger
+171,damn you,Anger
+172,im so tired of this bs,Stress
+173,ugh work sucks,Stress
+174,i cant even rn,Stress
+175,im losing my mind,Stress
+176,this is giving me anxiety,Stress
+177,bruh im so stressed,Stress
+170,cant deal with this anymore,Stress
+171,fml everything is going wrong,Stress
+172,im crying rn,Sadness
+173,feeling so down today,Sadness
+174,this sucks man,Sadness
+175,i feel so empty,Sadness
+176,nobody gets me,Sadness
+177,im so lonely rn,Sadness
+178,everything hurts,Sadness
+179,i just wanna disappear,Sadness
+180,life is so hard,Sadness
+181,why does this happen to me,Sadness
+182,im lowkey scared,Fear
+183,this is creepy af,Fear
+184,im freaking out rn,Fear
+185,what if i fail,Fear
+186,im paranoid about everything,Fear
+187,this gives me the creeps,Fear
+188,im shaking rn,Fear
+189,help im scared,Fear
+190,bruh wtf just happened,Surprise
+191,no way omg,Surprise
+192,wait what,Surprise
+193,im shook,Surprise
+194,holy sht,Surprise
+195,did that just happen,Surprise
+196,plot twist lol,Surprise
+197,i cant believe this is real,Surprise
+198,ily so much,Love
+199,ur the best,Love
+200,i miss u so much,Love
+201,thank u for everything,Love
+202,ur my favorite person,Love
+203,sending hugs,Love
+204,love u forever,Love
+205,ur amazing never forget that,Love
+206,love ya,Love
+207,luv u,Love
+208,youre the best,Love
+209,xoxo,Love
+210,hugs and kisses,Love
+211,youre my everything,Love
+212,ok cool,Neutral
+213,sure thing,Neutral
+214,sounds good,Neutral
+209,got it thanks,Neutral
+210,noted,Neutral
+211,will do,Neutral
+212,see u later,Neutral
+213,brb,Neutral
+214,k,Neutral
+215,whatever,Neutral
